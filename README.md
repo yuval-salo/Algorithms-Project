@@ -9,5 +9,6 @@ The Ways are:
 
 For each of the algorithms, the program will run the algorithm once when the graph is implemented by a Adjacency matrix and a second time by a Adjacency list.
 
+In every run of algorithm,the program measure the time taken to compute it, and print the results to an external file (received via command line argument).
 
 *This project was build as a part of "Algorithms" Course, taken in The Academic College of Tel Aviv - Yaffo, Computer Science Faculty.
