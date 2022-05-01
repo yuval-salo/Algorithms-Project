@@ -8,3 +8,6 @@ The Ways are:
 3. Bellman–Ford algorithm.
 
 For each of the algorithms, the program will run the algorithm once when the graph is implemented by a Adjacency matrix and a second time by a Adjacency list.
+
+
+*This project was build as a part of "Algorithms" Course, taken in The Academic College of Tel Aviv - Yaffo, Computer Science Faculty.
